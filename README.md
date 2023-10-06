@@ -28,3 +28,10 @@ A prime number is a positive integer that is only divisible by 1 and itself. For
 A fibonacci sequence is written as:
 0, 1, 1, 2, 3, 5, 8, 13, 21, ...
 The Fibonacci sequence is the integer sequence where the first two terms are 0 and 1. After that, the next term is defined as the sum of the previous two terms.
+
+//Armstrong Number
+
+A positive integer is called an Armstrong number (of order n) if
+abcd... = an + bn + cn + dn + ...
+In the case of an Armstrong number of 3 digits, the sum of cubes of each digit is equal to the number itself. For example, 153 is an Armstrong number because
+153 = 1*1*1 + 5*5*5 + 3*3*3

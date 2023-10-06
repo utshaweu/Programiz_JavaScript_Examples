@@ -23,6 +23,8 @@ console.log("Fibonacci Series: ");
 console.log(n3);
 console.log(n4);
 
+nextTerm2 = n3 + n4;
+
 while (nextTerm2 <= number2) {
   console.log(nextTerm2);
   n3 = n4;
