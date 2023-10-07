@@ -35,3 +35,15 @@ A positive integer is called an Armstrong number (of order n) if
 abcd... = an + bn + cn + dn + ...
 In the case of an Armstrong number of 3 digits, the sum of cubes of each digit is equal to the number itself. For example, 153 is an Armstrong number because
 153 = 1*1*1 + 5*5*5 + 3*3*3
+
+//HCF or GCD
+
+The Highest Common Factor (HCF) or Greatest Common Divisor (GCD) of two integers is the largest integer that can exactly divide both integers (without a remainder).
+
+For example, the HCF of 60 and 72 is 12.
+
+//LCM
+
+The Least Common Multiple (LCM) of two integers is the smallest positive integer that is perfectly divisible by both integers.
+
+For example, the LCM of 6 and 8 is 24.
